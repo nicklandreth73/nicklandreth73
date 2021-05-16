@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicklandreth73
 - 👀 I’m interested in React and dating applications
-- 🌱 I’m currently learning Machine Learning for Javascript Algorythyms and Data Structure interview prep
+- 🌱 I’m currently learning Machine Learning for Javascript Algorythyms, as well as Data Structure interview prep
 - 💞️ I’m looking to collaborate on any React based project 
 - 📫 Email me at nicklandreth75@gmail.com or text 541.969.1602
 
