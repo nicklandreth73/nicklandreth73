@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick Landreth
-- 🌱 I’m a full stuck Javascript/Typescript engineer.
-- I love working in React and Node ( next is my favorite! )
+- 🌱 I’m an AI context engineer.
+- I love innovating and learning new things
 - 📫 Email me at nicklandreth75@gmail.com or text +1.541.969.0058, also check out my profile at https://nicklandreth73.github.io/deploy-profile/#/home
 
 <!---
