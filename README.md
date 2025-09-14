@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nick Landreth
 - 🌱 I’m an AI context engineer.
 - I love innovating and learning new things
-- 📫 Email me at nicklandreth75@gmail.com or text +15419690058, also check out my app at www.amarbis.com
+- 📫 Email me at nicklandreth75@gmail.com or text +15419690058 , also check out my app at www.amarbis.com
 
 <!---
 nicklandreth73/nicklandreth73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
